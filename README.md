@@ -39,8 +39,8 @@ I enjoy turning messy data into clear insights and building reproducible, scalab
 ---
 
 ### 📈 GitHub Stats
-![Minkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyu123&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyu123&layout=compact&theme=default)
+![Minkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=crunchy-child&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crunchy-child&layout=compact&theme=default)
 
 ---
 

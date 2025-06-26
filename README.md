@@ -34,7 +34,9 @@ I enjoy turning messy data into clear insights and building reproducible, scalab
 ---
 
 ### 📂 Featured Projects
--
+- 🚲 **[Seoul Bike Rental Demand Prediction](https://github.com/crunchy-child/seoul-bike-demand)**  
+  Forecasting hourly rental demand of Seoul’s public bike system using weather and time features.  
+  Includes data cleaning, EDA, XGBoost modeling, and SHAP interpretation.
 
 ---
 

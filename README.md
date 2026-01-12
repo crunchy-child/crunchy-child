@@ -2,7 +2,7 @@
 
 🎓 Data Science @ UC Berkeley  
 🤖 Interested in AI Agents, Backend Systems, and Scalable ML Infrastructure  
-🌍 Based in Berkeley, CA | Willing to Relocate
+🌍 Based in Berkeley, CA and Seoul, KR | Willing to Relocate
 
 ---
 
